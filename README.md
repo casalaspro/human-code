@@ -17,7 +17,7 @@
             - Decidere budget
          - ALTRIMENTI
             - decidere budget
-            - uandare a versare in banca
+            - andare a versare in banca
 
 ### Accedere ad Amazon
     - SE siamo da PC
