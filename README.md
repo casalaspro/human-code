@@ -1,7 +1,7 @@
 # Comprare qualcosa su Amazon
-### Il regalo perfetto
+## Il regalo perfetto
 
-- Controllare fondi
+### Controllare fondi
     - SE siamo da PC
         - Accendere PC
         - Aprire browser
@@ -19,7 +19,7 @@
             - decidere budget
             - uandare a versare in banca
 
-- Accedere ad Amazon
+### Accedere ad Amazon
     - SE siamo da PC
         - Andiamo sul sito Amazon
     - ALTRIMENTI se siamo da Mobile
@@ -28,7 +28,7 @@
         - ALTRIMENTI
             - Accediamo ad Amazon da browser
 
-- Cercare regalo
+### Cercare regalo
     - Controllare requisiti
         - SE disponibile consegna per domani 
         - AND Budget non superato 
@@ -37,7 +37,7 @@
         - ALTRIMENTI
             - Cerca un altro regalo
 
-- Completare l'acquisto
+### Completare l'acquisto
     - Accedere al carrello
     - Aggiungere indirizzo
     - Aggiungere dati di fatturazione 
